@@ -1,4 +1,10 @@
 
+struct Vector2{
+    double x, y;
+};
+
 int main() {
-    return 1;
+
+    Vector2 pos = {100, 100};
+    
 }

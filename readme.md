@@ -7,7 +7,13 @@
 ---
 
 ```cpp
+struct Vector2{
+    double x, y;
+};
+
 int main() {
-    std::cout << "hello world!\n";
+
+    Vector2 pos = {100, 100};
+    
 }
 ```
