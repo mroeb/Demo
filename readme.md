@@ -2,7 +2,7 @@
 
 ## Re
 
-[] Checkbox
+[ ] Checkbox
 
 ---
 
